@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
 org.eclipse.jdt.debug.PREF_HCR_WITH_COMPILATION_ERRORS=true
+org.eclipse.jdt.debug.PREF_JAVA_LOGICAL_STRUCTURES=
 org.eclipse.jdt.debug.PREF_REQUEST_TIMEOUT=3000
 org.eclipse.jdt.debug._all_references_max_count=100
 org.eclipse.jdt.debug.all_instances_max_count=100
