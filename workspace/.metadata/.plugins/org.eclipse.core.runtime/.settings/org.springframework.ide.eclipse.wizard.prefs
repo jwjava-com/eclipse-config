@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PopularityTracker.web=1
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.artifactId=tlogger
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.bootVersion=1.3.5.RELEASE
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.description=Time Logging Spring Boot application using web service Toggl
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.groupId=info.jonwarren
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.javaVersion=1.8
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.language=java
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.name=tlogger
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.packageName=info.jonwarren.tlogger
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.wizard.gettingstarted.boot.PreferredSelections.version=0.0.1-SNAPSHOT
